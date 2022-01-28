@@ -36,6 +36,21 @@
         </dependencies>
     </dependencyManagement>
 
+    <profiles>
+        <profile>
+            <id>event-driven</id>
+            <modules>
+                <module>event-driven</module>
+            </modules>
+        </profile>
+        <profile>
+            <id>scheduler-quartz</id>
+            <modules>
+                <module>scheduler-quartz</module>
+            </modules>
+        </profile>
+    </profiles>
+
     <build>
         <plugins>
             <plugin>
