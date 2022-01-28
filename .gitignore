@@ -1,7 +1,35 @@
-# Compile
-*/target
-*/*.iml
+# maven #
+target
+
+logs
+
+# windows #
+Thumbs.db
+
+# Mac #
+.DS_Store
 
 # Log
 logs/*.html
 logs/*.log
+
+# eclipse #
+.settings
+.project
+.classpath
+.log
+*.class
+
+# idea #
+.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/target
+
+.flattened-pom.xml
+.flattened-build.xml
+
