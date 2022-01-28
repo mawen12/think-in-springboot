@@ -3,4 +3,5 @@
 */*.iml
 
 # Log
-/logs
+logs/*.html
+logs/*.log
