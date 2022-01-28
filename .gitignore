@@ -1,6 +1,6 @@
 # Compile
 */target
-*/event-driven.iml
+*/*.iml
 
 # Log
 logs
