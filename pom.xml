@@ -5,6 +5,10 @@
     <groupId>com.mawen</groupId>
     <artifactId>think-in-springboot</artifactId>
     <version>${revision}</version>
+    <modules>
+        <module>event-driven</module>
+        <module>scheduler-quartz</module>
+    </modules>
 
     <name>think-in-springboot</name>
     <description>Think of Spring Boot Framework</description>
