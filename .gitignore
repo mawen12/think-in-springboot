@@ -7,7 +7,7 @@ build/
 
 # Maven
 target/
-log2/
+logs/
 
 # IDEA
 .idea/
