@@ -1,6 +1,7 @@
 package com.mawen.spock.test.chapter2.asserts;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 组件库存
