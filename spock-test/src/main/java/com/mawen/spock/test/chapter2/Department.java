@@ -14,7 +14,7 @@ public class Department {
     private List<Employee> currentStaff = new ArrayList<>();
 
     public void assign(List<Employee> staff) {
-        for (Employee employee : currentStaff) {
+        for (Employee employee : staff) {
             if (employee.isRetired()) {
                 throw new IllegalArgumentException("Cannot assign a retired person");
             }

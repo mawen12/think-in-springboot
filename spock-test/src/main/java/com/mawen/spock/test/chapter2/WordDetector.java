@@ -17,8 +17,8 @@ public class WordDetector {
         feedText(text);
     }
 
-    private WordDetector feedText(String text) {
-        String[] words = text.split("[\\s;]"); // 仅用于说明的代码
+    public WordDetector feedText(String text) {
+        String[] words = text.split("[\\s,;]"); // 仅用于说明的代码
         Arrays.stream(words).forEach(this::recordCount);
         return this;
     }

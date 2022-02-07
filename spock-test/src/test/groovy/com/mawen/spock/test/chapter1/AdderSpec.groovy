@@ -1,5 +1,6 @@
 package com.mawen.spock.test.chapter1
 
+
 import spock.lang.Specification
 
 class AdderSpec extends Specification {

@@ -14,6 +14,6 @@ public class Stamper {
 
     public boolean isValid(Long addressId) {
         Address address = addressDao.load(addressId);
-        return address.getStreet() == null && address.getClass() != null;
+        return address.getStreet() != null && address.getPostCode() != null;
     }
 }
