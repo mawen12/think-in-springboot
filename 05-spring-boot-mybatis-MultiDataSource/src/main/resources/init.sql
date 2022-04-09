@@ -5,8 +5,8 @@ CREATE TABLE STUDENT
     SSEX  int         NOT NULL
 );
 INSERT INTO STUDENT
-VALUES ('001', 'KangKang', 1);
+VALUES (''001 '', ''KangKang'', 1);
 INSERT INTO STUDENT
-VALUES ('002', 'Mike', 0);
+VALUES (''002 '', ''Mike'', 0);
 INSERT INTO STUDENT
-VALUES ('003', 'Jane', 0);
+VALUES (''003 '', ''Jane'', 0);

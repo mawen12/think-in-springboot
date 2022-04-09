@@ -5,6 +5,7 @@ import com.mawen.demo.dao.StudentDao;
 import com.mawen.demo.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 import java.util.Map;
@@ -15,16 +16,19 @@ public class StudentServiceImpl implements StudentService {
     private StudentDao studentDao;
 
     @Override
+    @Transactional
     public int add(Student student) {
         return studentDao.add(student);
     }
 
     @Override
+    @Transactional
     public int update(Student student) {
         return studentDao.update(student);
     }
 
     @Override
+    @Transactional
     public int deleteBySno(String sno) {
         return studentDao.deleteBySno(sno);
     }

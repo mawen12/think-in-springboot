@@ -9,6 +9,7 @@
         <module>event-driven</module>
         <module>scheduler-quartz</module>
         <module>04-spring-boot-JdbcTemplate</module>
+        <module>05-spring-boot-mybatis-MultiDataSource</module>
     </modules>
 
     <name>think-in-springboot</name>
