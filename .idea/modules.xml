@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/05-spring-boot-mybatis-MultiDataSource/05-spring-boot-mybatis-MultiDataSource.iml" filepath="$PROJECT_DIR$/05-spring-boot-mybatis-MultiDataSource/05-spring-boot-mybatis-MultiDataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-spring-boot-JdbcTemplate-MultiDatasource/06-spring-boot-JdbcTemplate-MultiDatasource.iml" filepath="$PROJECT_DIR$/06-spring-boot-JdbcTemplate-MultiDatasource/06-spring-boot-JdbcTemplate-MultiDatasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-spring-boot-aop-log/07-spring-boot-aop-log.iml" filepath="$PROJECT_DIR$/07-spring-boot-aop-log/07-spring-boot-aop-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-spring-boot-Thymeleaf/08-spring-boot-Thymeleaf.iml" filepath="$PROJECT_DIR$/08-spring-boot-Thymeleaf/08-spring-boot-Thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-driven/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/event-driven.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" filepath="$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/think-in-springboot.iml" filepath="$PROJECT_DIR$/.idea/think-in-springboot.iml" />

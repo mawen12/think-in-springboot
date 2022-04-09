@@ -12,6 +12,7 @@
         <module>05-spring-boot-mybatis-MultiDataSource</module>
         <module>06-spring-boot-JdbcTemplate-MultiDatasource</module>
         <module>07-spring-boot-aop-log</module>
+        <module>08-spring-boot-Thymeleaf</module>
     </modules>
 
     <name>think-in-springboot</name>
