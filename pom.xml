@@ -11,6 +11,7 @@
         <module>04-spring-boot-JdbcTemplate</module>
         <module>05-spring-boot-mybatis-MultiDataSource</module>
         <module>06-spring-boot-JdbcTemplate-MultiDatasource</module>
+        <module>07-spring-boot-aop-log</module>
     </modules>
 
     <name>think-in-springboot</name>
