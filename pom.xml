@@ -10,6 +10,7 @@
         <module>scheduler-quartz</module>
         <module>04-spring-boot-JdbcTemplate</module>
         <module>05-spring-boot-mybatis-MultiDataSource</module>
+        <module>06-spring-boot-JdbcTemplate-MultiDatasource</module>
     </modules>
 
     <name>think-in-springboot</name>

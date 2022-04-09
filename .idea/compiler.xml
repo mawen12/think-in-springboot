@@ -10,12 +10,14 @@
         <module name="event-driven" />
         <module name="04-spring-boot-JdbcTemplate" />
         <module name="05-spring-boot-mybatis-MultiDataSource" />
+        <module name="06-spring-boot-JdbcTemplate-MultiDatasource" />
         <module name="scheduler-quartz" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="04-spring-boot-JdbcTemplate" target="8" />
       <module name="05-spring-boot-mybatis-MultiDataSource" target="8" />
+      <module name="06-spring-boot-JdbcTemplate-MultiDatasource" target="8" />
       <module name="event-driven" target="8" />
       <module name="scheduler-quartz" target="8" />
       <module name="think-in-springboot" target="8" />

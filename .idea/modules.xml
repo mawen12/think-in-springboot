@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/04-spring-boot-JdbcTemplate/04-spring-boot-JdbcTemplate.iml" filepath="$PROJECT_DIR$/04-spring-boot-JdbcTemplate/04-spring-boot-JdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-spring-boot-mybatis-MultiDataSource/05-spring-boot-mybatis-MultiDataSource.iml" filepath="$PROJECT_DIR$/05-spring-boot-mybatis-MultiDataSource/05-spring-boot-mybatis-MultiDataSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-spring-boot-JdbcTemplate-MultiDatasource/06-spring-boot-JdbcTemplate-MultiDatasource.iml" filepath="$PROJECT_DIR$/06-spring-boot-JdbcTemplate-MultiDatasource/06-spring-boot-JdbcTemplate-MultiDatasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-driven/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/event-driven.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" filepath="$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/think-in-springboot.iml" filepath="$PROJECT_DIR$/.idea/think-in-springboot.iml" />
