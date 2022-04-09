@@ -8,6 +8,7 @@
     <modules>
         <module>event-driven</module>
         <module>scheduler-quartz</module>
+        <module>04-spring-boot-JdbcTemplate</module>
     </modules>
 
     <name>think-in-springboot</name>
