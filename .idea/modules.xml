@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/07-spring-boot-aop-log/07-spring-boot-aop-log.iml" filepath="$PROJECT_DIR$/07-spring-boot-aop-log/07-spring-boot-aop-log.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-spring-boot-Thymeleaf/08-spring-boot-Thymeleaf.iml" filepath="$PROJECT_DIR$/08-spring-boot-Thymeleaf/08-spring-boot-Thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-spring-boot-redis-cache/09-spring-boot-redis-cache.iml" filepath="$PROJECT_DIR$/09-spring-boot-redis-cache/09-spring-boot-redis-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-spring-boot-ehcache-cache/10-spring-boot-ehcache-cache.iml" filepath="$PROJECT_DIR$/10-spring-boot-ehcache-cache/10-spring-boot-ehcache-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-driven/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/event-driven.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" filepath="$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/think-in-springboot.iml" filepath="$PROJECT_DIR$/.idea/think-in-springboot.iml" />

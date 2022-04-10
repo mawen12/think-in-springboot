@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="04-spring-boot-JdbcTemplate" />
         <module name="08-spring-boot-Thymeleaf" />
+        <module name="10-spring-boot-ehcache-cache" />
         <module name="event-driven" />
         <module name="07-spring-boot-aop-log" />
         <module name="05-spring-boot-mybatis-MultiDataSource" />
@@ -24,6 +25,7 @@
       <module name="07-spring-boot-aop-log" target="8" />
       <module name="08-spring-boot-Thymeleaf" target="8" />
       <module name="09-spring-boot-redis-cache" target="8" />
+      <module name="10-spring-boot-ehcache-cache" target="8" />
       <module name="event-driven" target="8" />
       <module name="scheduler-quartz" target="8" />
       <module name="think-in-springboot" target="8" />

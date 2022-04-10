@@ -14,6 +14,7 @@
         <module>07-spring-boot-aop-log</module>
         <module>08-spring-boot-Thymeleaf</module>
         <module>09-spring-boot-redis-cache</module>
+        <module>10-spring-boot-ehcache-cache</module>
     </modules>
 
     <name>think-in-springboot</name>
@@ -41,6 +42,14 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <repositories>
+        <repository>
+            <id>nexus-aliyun</id>
+            <name>Nexus aliyun</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+        </repository>
+    </repositories>
 
     <profiles>
         <profile>
