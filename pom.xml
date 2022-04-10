@@ -16,6 +16,8 @@
         <module>09-spring-boot-redis-cache</module>
         <module>10-spring-boot-ehcache-cache</module>
         <module>11-spring-boot-Shiro-Authentication</module>
+        <module>12-spring-boot-Shiro-RememberMe</module>
+        <module>13-spring-boot-Shiro-Authorization</module>
     </modules>
 
     <name>think-in-springboot</name>
