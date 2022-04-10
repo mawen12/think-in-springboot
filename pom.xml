@@ -13,6 +13,7 @@
         <module>06-spring-boot-JdbcTemplate-MultiDatasource</module>
         <module>07-spring-boot-aop-log</module>
         <module>08-spring-boot-Thymeleaf</module>
+        <module>09-spring-boot-redis-cache</module>
     </modules>
 
     <name>think-in-springboot</name>
