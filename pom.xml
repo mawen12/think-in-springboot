@@ -15,6 +15,7 @@
         <module>08-spring-boot-Thymeleaf</module>
         <module>09-spring-boot-redis-cache</module>
         <module>10-spring-boot-ehcache-cache</module>
+        <module>11-spring-boot-Shiro-Authentication</module>
     </modules>
 
     <name>think-in-springboot</name>
