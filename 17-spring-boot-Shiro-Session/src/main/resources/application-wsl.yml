@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    druid:
+      # 数据库访问配置
+      url: jdbc:mysql://192.168.196.109:3306/test
+      username: root
+      password: admin

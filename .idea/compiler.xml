@@ -15,6 +15,7 @@
         <module name="event-driven" />
         <module name="13-spring-boot-Shiro-Authorization" />
         <module name="12-spring-boot-Shiro-RememberMe" />
+        <module name="17-spring-boot-Shiro-Session" />
         <module name="06-spring-boot-JdbcTemplate-MultiDatasource" />
         <module name="scheduler-quartz" />
         <module name="15-spring-boot-Shiro-Ehcache" />
@@ -46,6 +47,7 @@
       <module name="15-spring-boot-Shiro-Ehcache" target="8" />
       <module name="16-spring-boot-Shiro- Thymeleaf-Tag" target="8" />
       <module name="16-spring-boot-Shiro-Thymeleaf-Tag" target="8" />
+      <module name="17-spring-boot-Shiro-Session" target="8" />
       <module name="event-driven" target="1.8" />
       <module name="scheduler-quartz" target="1.8" />
       <module name="spock-test" target="1.8" />

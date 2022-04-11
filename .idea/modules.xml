@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/14-spring-boot-Shiro-Redis/14-spring-boot-Shiro-Redis.iml" filepath="$PROJECT_DIR$/14-spring-boot-Shiro-Redis/14-spring-boot-Shiro-Redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/15-spring-boot-Shiro-Ehcache/15-spring-boot-Shiro-Ehcache.iml" filepath="$PROJECT_DIR$/15-spring-boot-Shiro-Ehcache/15-spring-boot-Shiro-Ehcache.iml" />
       <module fileurl="file://$PROJECT_DIR$/16-spring-boot-Shiro-Thymeleaf-Tag/16-spring-boot-Shiro-Thymeleaf-Tag.iml" filepath="$PROJECT_DIR$/16-spring-boot-Shiro-Thymeleaf-Tag/16-spring-boot-Shiro-Thymeleaf-Tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-spring-boot-Shiro-Session/17-spring-boot-Shiro-Session.iml" filepath="$PROJECT_DIR$/16-spring-boot-Shiro-Session/17-spring-boot-Shiro-Session.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-driven/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/event-driven.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" filepath="$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/spock-test/spock-test.iml" filepath="$PROJECT_DIR$/spock-test/spock-test.iml" />
