@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-start-spring-boot/01-start-spring-boot.iml" filepath="$PROJECT_DIR$/01-start-spring-boot/01-start-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-spring-boot-config/02-spring-boot-config.iml" filepath="$PROJECT_DIR$/02-spring-boot-config/02-spring-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-spring-boot-mybatis/03-spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/03-spring-boot-mybatis/03-spring-boot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-spring-boot-JdbcTemplate/04-spring-boot-JdbcTemplate.iml" filepath="$PROJECT_DIR$/04-spring-boot-JdbcTemplate/04-spring-boot-JdbcTemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-spring-boot-mybatis-MultiDataSource/05-spring-boot-mybatis-MultiDataSource.iml" filepath="$PROJECT_DIR$/05-spring-boot-mybatis-MultiDataSource/05-spring-boot-mybatis-MultiDataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-spring-boot-JdbcTemplate-MultiDatasource/06-spring-boot-JdbcTemplate-MultiDatasource.iml" filepath="$PROJECT_DIR$/06-spring-boot-JdbcTemplate-MultiDatasource/06-spring-boot-JdbcTemplate-MultiDatasource.iml" />
@@ -14,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/13-spring-boot-Shiro-Authorization.iml" filepath="$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/13-spring-boot-Shiro-Authorization.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-driven/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/event-driven.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" filepath="$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spock-test/spock-test.iml" filepath="$PROJECT_DIR$/spock-test/spock-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/think-in-springboot.iml" filepath="$PROJECT_DIR$/.idea/think-in-springboot.iml" />
     </modules>
   </component>

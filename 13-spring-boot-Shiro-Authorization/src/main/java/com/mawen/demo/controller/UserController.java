@@ -26,7 +26,8 @@ public class UserController {
     @RequiresPermissions("user:delete")
     @RequestMapping("delete")
     public String userDelete(Model model) {
-        
+        model.addAttribute("value", "删除用户");
+        return "user";
     }
 
 }

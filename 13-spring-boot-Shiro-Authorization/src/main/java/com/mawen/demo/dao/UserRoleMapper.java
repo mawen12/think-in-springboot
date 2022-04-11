@@ -11,11 +11,5 @@ import java.util.List;
 @Mapper
 public interface UserRoleMapper {
 
-    @Select("SELECT * FROM role where name = #{name}")
-    @Results(id = "user", value = {
-            @Result(property = "id", column = "id", id = true),
-            @Result(property = "name", column = "name", javaType = String.class),
-            @Result(property = "memo", column = "memo", javaType = String.class)
-    })
     List<Role> findByUsername(String name);
 }

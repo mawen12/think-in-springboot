@@ -62,6 +62,7 @@ spring:
 
   thymeleaf:
     cache: false
+    enabled: true
 
 logging:
   level:
@@ -69,3 +70,18 @@ logging:
       mawen:
         demo:
           mapper: debug
+
+mybatis:
+  type-aliases-package: com.mawen.demo
+  mapper-locations: classpath:mapper/*.xml
+  property:
+    order: BEFORE
+
+management:
+  server:
+    port: 9000
+    address: 192.168.196.109
+  endpoints:
+    web:
+      exposure:
+        include: '*'

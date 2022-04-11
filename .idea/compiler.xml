@@ -7,21 +7,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="04-spring-boot-JdbcTemplate" />
-        <module name="08-spring-boot-Thymeleaf" />
+        <module name="03-spring-boot-mybatis" />
         <module name="11-spring-boot-Shiro-Authentication" />
-        <module name="10-spring-boot-ehcache-cache" />
+        <module name="spock-test" />
         <module name="event-driven" />
         <module name="13-spring-boot-Shiro-Authorization" />
         <module name="12-spring-boot-Shiro-RememberMe" />
+        <module name="06-spring-boot-JdbcTemplate-MultiDatasource" />
+        <module name="scheduler-quartz" />
+        <module name="02-spring-boot-config" />
+        <module name="08-spring-boot-Thymeleaf" />
+        <module name="04-spring-boot-JdbcTemplate" />
+        <module name="10-spring-boot-ehcache-cache" />
+        <module name="01-start-spring-boot" />
         <module name="07-spring-boot-aop-log" />
         <module name="05-spring-boot-mybatis-MultiDataSource" />
-        <module name="06-spring-boot-JdbcTemplate-MultiDatasource" />
         <module name="09-spring-boot-redis-cache" />
-        <module name="scheduler-quartz" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="01-start-spring-boot" target="8" />
+      <module name="02-spring-boot-config" target="8" />
+      <module name="03-spring-boot-mybatis" target="8" />
       <module name="04-spring-boot-JdbcTemplate" target="8" />
       <module name="05-spring-boot-mybatis-MultiDataSource" target="8" />
       <module name="06-spring-boot-JdbcTemplate-MultiDatasource" target="8" />
@@ -32,8 +39,9 @@
       <module name="11-spring-boot-Shiro-Authentication" target="8" />
       <module name="12-spring-boot-Shiro-RememberMe" target="8" />
       <module name="13-spring-boot-Shiro-Authorization" target="8" />
-      <module name="event-driven" target="8" />
-      <module name="scheduler-quartz" target="8" />
+      <module name="event-driven" target="1.8" />
+      <module name="scheduler-quartz" target="1.8" />
+      <module name="spock-test" target="1.8" />
       <module name="think-in-springboot" target="8" />
     </bytecodeTargetLevel>
   </component>
