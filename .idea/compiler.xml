@@ -10,6 +10,7 @@
         <module name="03-spring-boot-mybatis" />
         <module name="11-spring-boot-Shiro-Authentication" />
         <module name="spock-test" />
+        <module name="14-spring-boot-Shiro-Redis" />
         <module name="event-driven" />
         <module name="13-spring-boot-Shiro-Authorization" />
         <module name="12-spring-boot-Shiro-RememberMe" />
@@ -39,6 +40,7 @@
       <module name="11-spring-boot-Shiro-Authentication" target="8" />
       <module name="12-spring-boot-Shiro-RememberMe" target="8" />
       <module name="13-spring-boot-Shiro-Authorization" target="8" />
+      <module name="14-spring-boot-Shiro-Redis" target="8" />
       <module name="event-driven" target="1.8" />
       <module name="scheduler-quartz" target="1.8" />
       <module name="spock-test" target="1.8" />

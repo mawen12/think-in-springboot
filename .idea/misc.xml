@@ -22,24 +22,8 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="1587" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/src/main/resources/application.yml" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="182" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/src/main/java/com/mawen/demo/Application.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="210" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/src/main/resources/templates/login.html" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="270" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/src/main/java/com/mawen/demo/pojo/User.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="277" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/src/main/resources/templates/index.html" />
+          <option name="caretOffset" value="7380" />
+          <option name="fileUrl" value="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.3.14/spring-webmvc-5.3.14-sources.jar!/org/springframework/web/servlet/view/InternalResourceView.java" />
         </OpenedFileInfo>
       </list>
     </option>

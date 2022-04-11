@@ -22,6 +22,7 @@
         <module>11-spring-boot-Shiro-Authentication</module>
         <module>12-spring-boot-Shiro-RememberMe</module>
         <module>13-spring-boot-Shiro-Authorization</module>
+        <module>14-spring-boot-Shiro-Redis</module>
     </modules>
 
     <name>think-in-springboot</name>
@@ -90,7 +91,7 @@
         <repository>
             <id>nexus-aliyun</id>
             <name>Nexus aliyun</name>
-            <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+            <url>https://maven.aliyun.com/repository/public</url>
         </repository>
     </repositories>
 

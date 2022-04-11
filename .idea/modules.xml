@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/11-spring-boot-Shiro-Authentication/11-spring-boot-Shiro-Authentication.iml" filepath="$PROJECT_DIR$/11-spring-boot-Shiro-Authentication/11-spring-boot-Shiro-Authentication.iml" />
       <module fileurl="file://$PROJECT_DIR$/12-spring-boot-Shiro-RememberMe/12-spring-boot-Shiro-RememberMe.iml" filepath="$PROJECT_DIR$/12-spring-boot-Shiro-RememberMe/12-spring-boot-Shiro-RememberMe.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/13-spring-boot-Shiro-Authorization.iml" filepath="$PROJECT_DIR$/13-spring-boot-Shiro-Authorization/13-spring-boot-Shiro-Authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-spring-boot-Shiro-Redis/14-spring-boot-Shiro-Redis.iml" filepath="$PROJECT_DIR$/14-spring-boot-Shiro-Redis/14-spring-boot-Shiro-Redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-driven/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/event-driven.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" filepath="$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/spock-test/spock-test.iml" filepath="$PROJECT_DIR$/spock-test/spock-test.iml" />
