@@ -23,6 +23,8 @@
         <module>12-spring-boot-Shiro-RememberMe</module>
         <module>13-spring-boot-Shiro-Authorization</module>
         <module>14-spring-boot-Shiro-Redis</module>
+        <module>15-spring-boot-Shiro-Ehcache</module>
+        <module>16-spring-boot-Shiro-Thymeleaf-Tag</module>
     </modules>
 
     <name>think-in-springboot</name>
