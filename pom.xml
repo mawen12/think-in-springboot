@@ -8,6 +8,16 @@
     <modules>
         <module>event-driven</module>
         <module>scheduler-quartz</module>
+        <module>04-spring-boot-JdbcTemplate</module>
+        <module>05-spring-boot-mybatis-MultiDataSource</module>
+        <module>06-spring-boot-JdbcTemplate-MultiDatasource</module>
+        <module>07-spring-boot-aop-log</module>
+        <module>08-spring-boot-Thymeleaf</module>
+        <module>09-spring-boot-redis-cache</module>
+        <module>10-spring-boot-ehcache-cache</module>
+        <module>11-spring-boot-Shiro-Authentication</module>
+        <module>12-spring-boot-Shiro-RememberMe</module>
+        <module>13-spring-boot-Shiro-Authorization</module>
         <module>spock-test</module>
         <module>01-start-spring-boot</module>
         <module>02-spring-boot-config</module>
@@ -22,15 +32,13 @@
         <revision>0.0.1-SNAPSHOT</revision>
 
         <java.version>1.8</java.version>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
 
         <spring-boot.version>2.6.2</spring-boot.version>
         <spock.version>2.1-M2-groovy-3.0</spock.version>
         <groovy.version>3.0.9</groovy.version>
     </properties>
-
-
 
     <dependencyManagement>
         <dependencies>
@@ -77,6 +85,14 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <repositories>
+        <repository>
+            <id>nexus-aliyun</id>
+            <name>Nexus aliyun</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+        </repository>
+    </repositories>
 
     <profiles>
         <profile>

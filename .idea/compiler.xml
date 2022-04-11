@@ -3,8 +3,37 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-spring-boot-JdbcTemplate" />
+        <module name="08-spring-boot-Thymeleaf" />
+        <module name="11-spring-boot-Shiro-Authentication" />
+        <module name="10-spring-boot-ehcache-cache" />
+        <module name="event-driven" />
+        <module name="13-spring-boot-Shiro-Authorization" />
+        <module name="12-spring-boot-Shiro-RememberMe" />
+        <module name="07-spring-boot-aop-log" />
+        <module name="05-spring-boot-mybatis-MultiDataSource" />
+        <module name="06-spring-boot-JdbcTemplate-MultiDatasource" />
+        <module name="09-spring-boot-redis-cache" />
+        <module name="scheduler-quartz" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="04-spring-boot-JdbcTemplate" target="8" />
+      <module name="05-spring-boot-mybatis-MultiDataSource" target="8" />
+      <module name="06-spring-boot-JdbcTemplate-MultiDatasource" target="8" />
+      <module name="07-spring-boot-aop-log" target="8" />
+      <module name="08-spring-boot-Thymeleaf" target="8" />
+      <module name="09-spring-boot-redis-cache" target="8" />
+      <module name="10-spring-boot-ehcache-cache" target="8" />
+      <module name="11-spring-boot-Shiro-Authentication" target="8" />
+      <module name="12-spring-boot-Shiro-RememberMe" target="8" />
+      <module name="13-spring-boot-Shiro-Authorization" target="8" />
+      <module name="event-driven" target="8" />
+      <module name="scheduler-quartz" target="8" />
       <module name="think-in-springboot" target="8" />
     </bytecodeTargetLevel>
   </component>
