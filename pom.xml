@@ -9,6 +9,9 @@
         <module>event-driven</module>
         <module>scheduler-quartz</module>
         <module>spock-test</module>
+        <module>01-start-spring-boot</module>
+        <module>02-spring-boot-config</module>
+        <module>03-spring-boot-mybatis</module>
     </modules>
 
     <name>think-in-springboot</name>
@@ -26,6 +29,8 @@
         <spock.version>2.1-M2-groovy-3.0</spock.version>
         <groovy.version>3.0.9</groovy.version>
     </properties>
+
+
 
     <dependencyManagement>
         <dependencies>
