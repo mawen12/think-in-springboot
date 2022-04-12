@@ -26,6 +26,7 @@
         <module>15-spring-boot-Shiro-Ehcache</module>
         <module>16-spring-boot-Shiro-Thymeleaf-Tag</module>
         <module>17-spring-boot-Shiro-Session</module>
+        <module>18-spring-boot-Jackson</module>
     </modules>
 
     <name>think-in-springboot</name>

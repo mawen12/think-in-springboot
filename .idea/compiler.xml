@@ -12,6 +12,7 @@
         <module name="spock-test" />
         <module name="14-spring-boot-Shiro-Redis" />
         <module name="16-spring-boot-Shiro-Thymeleaf-Tag" />
+        <module name="18-spring-boot-Jackson" />
         <module name="event-driven" />
         <module name="13-spring-boot-Shiro-Authorization" />
         <module name="12-spring-boot-Shiro-RememberMe" />
@@ -48,6 +49,7 @@
       <module name="16-spring-boot-Shiro- Thymeleaf-Tag" target="8" />
       <module name="16-spring-boot-Shiro-Thymeleaf-Tag" target="8" />
       <module name="17-spring-boot-Shiro-Session" target="8" />
+      <module name="18-spring-boot-Jackson" target="8" />
       <module name="event-driven" target="1.8" />
       <module name="scheduler-quartz" target="1.8" />
       <module name="spock-test" target="1.8" />
