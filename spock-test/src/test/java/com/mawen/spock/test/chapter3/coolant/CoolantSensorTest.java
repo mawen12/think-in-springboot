@@ -3,8 +3,6 @@ package com.mawen.spock.test.chapter3.coolant;
 import org.junit.Test;
 import org.mockito.Mockito;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 public class CoolantSensorTest {
 
     @Test

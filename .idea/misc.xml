@@ -18,38 +18,4 @@
   <component name="SuppressionsComponent">
     <option name="suppComments" value="[]" />
   </component>
-  <component name="UnattendedHostPersistenceState">
-    <option name="openedFilesInfos">
-      <list>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="842" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/18-spring-boot-Jackson/pom.xml" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="306" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/18-spring-boot-Jackson/src/main/java/com/mawen/demo/Application.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="415" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/18-spring-boot-Jackson/src/main/java/com/mawen/demo/pojo/User.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="354" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/18-spring-boot-Jackson/src/main/java/com/mawen/demo/config/UserDeserializer.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="724" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/18-spring-boot-Jackson/src/main/java/com/mawen/demo/config/JacksonConfig.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="2166" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/18-spring-boot-Jackson/src/main/java/com/mawen/demo/controller/JsonController.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="275" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/18-spring-boot-Jackson/src/main/java/com/mawen/demo/config/UserSerializer.java" />
-        </OpenedFileInfo>
-      </list>
-    </option>
-  </component>
 </project>

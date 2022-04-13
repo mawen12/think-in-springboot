@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mawen</groupId>
     <artifactId>think-in-springboot</artifactId>
-    <version>${revision}</version>
+    <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>spock-test</module>
         <module>event-driven</module>
@@ -27,6 +27,7 @@
         <module>16-spring-boot-Shiro-Thymeleaf-Tag</module>
         <module>17-spring-boot-Shiro-Session</module>
         <module>18-spring-boot-Jackson</module>
+        <module>19-spring-boot-Testing</module>
     </modules>
 
     <name>think-in-springboot</name>
@@ -86,7 +87,7 @@
             <dependency>
                 <groupId>org.hamcrest</groupId>
                 <artifactId>hamcrest-all</artifactId>
-                <version>1.3</version>
+                <version>1.1</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
@@ -121,37 +122,6 @@
     </profiles>
 
     <build>
-        <plugins>
-            <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>flatten-maven-plugin</artifactId>
-                <version>1.1.0</version>
-                <executions>
-                    <execution>
-                        <id>flatten</id>
-                        <phase>process-resources</phase>
-                        <goals>
-                            <goal>flatten</goal>
-                        </goals>
-                    </execution>
-                    <execution>
-                        <id>flatten.clean</id>
-                        <phase>clean</phase>
-                        <goals>
-                            <goal>clean</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-report-plugin</artifactId>
-                <version>3.0.0-M5</version>
-            </plugin>
-
-        </plugins>
-
         <pluginManagement>
             <plugins>
                 <plugin>

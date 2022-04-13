@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/16-spring-boot-Shiro-Thymeleaf-Tag/16-spring-boot-Shiro-Thymeleaf-Tag.iml" filepath="$PROJECT_DIR$/16-spring-boot-Shiro-Thymeleaf-Tag/16-spring-boot-Shiro-Thymeleaf-Tag.iml" />
       <module fileurl="file://$PROJECT_DIR$/17-spring-boot-Shiro-Session/17-spring-boot-Shiro-Session.iml" filepath="$PROJECT_DIR$/17-spring-boot-Shiro-Session/17-spring-boot-Shiro-Session.iml" />
       <module fileurl="file://$PROJECT_DIR$/18-spring-boot-Jackson/18-spring-boot-Jackson.iml" filepath="$PROJECT_DIR$/18-spring-boot-Jackson/18-spring-boot-Jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-spring-boot-Testing/19-spring-boot-Testing.iml" filepath="$PROJECT_DIR$/19-spring-boot-Testing/19-spring-boot-Testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/event-driven/event-driven.iml" filepath="$PROJECT_DIR$/event-driven/event-driven.iml" />
       <module fileurl="file://$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" filepath="$PROJECT_DIR$/scheduler-quartz/scheduler-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/spock-test/spock-test.iml" filepath="$PROJECT_DIR$/spock-test/spock-test.iml" />

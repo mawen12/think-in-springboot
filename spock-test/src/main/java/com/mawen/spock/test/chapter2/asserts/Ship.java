@@ -1,7 +1,5 @@
 package com.mawen.spock.test.chapter2.asserts;
 
-import sun.dc.pr.PRError;
-
 import java.util.ArrayList;
 import java.util.List;
 
