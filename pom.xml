@@ -28,6 +28,7 @@
         <module>17-spring-boot-Shiro-Session</module>
         <module>18-spring-boot-Jackson</module>
         <module>19-spring-boot-Testing</module>
+        <module>100-component-scan</module>
     </modules>
 
     <name>think-in-springboot</name>
