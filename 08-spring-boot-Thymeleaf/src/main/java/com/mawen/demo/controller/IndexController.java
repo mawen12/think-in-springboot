@@ -1,13 +1,13 @@
 package com.mawen.demo.controller;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import com.mawen.demo.bean.Account;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-import java.util.ArrayList;
-import java.util.List;
 
 @Controller
 public class IndexController {

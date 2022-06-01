@@ -24,26 +24,4 @@
       <map />
     </option>
   </component>
-  <component name="UnattendedHostPersistenceState">
-    <option name="openedFilesInfos">
-      <list>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="8776" />
-          <option name="fileUrl" value="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.14/spring-beans-5.3.14-sources.jar!/org/springframework/beans/factory/support/ConstructorResolver.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="581" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/100-component-scan/src/main/java/com/mawen/think/in/springboot/Application.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="49298" />
-          <option name="fileUrl" value="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.14/spring-beans-5.3.14-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="959" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/100-component-scan/component-scan.md" />
-        </OpenedFileInfo>
-      </list>
-    </option>
-  </component>
 </project>

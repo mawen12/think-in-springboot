@@ -29,6 +29,7 @@
         <module>18-spring-boot-Jackson</module>
         <module>19-spring-boot-Testing</module>
         <module>100-component-scan</module>
+        <module>101-spring-event</module>
     </modules>
 
     <name>think-in-springboot</name>

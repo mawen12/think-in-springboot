@@ -23,7 +23,7 @@ public class ProblematicBasket {
 
     public void addProduct(Product product, int times) {
         if (contents.containsKey(product)) {
-            int existing = contents.get(product.getName());
+            int existing = contents.get(product);
             contents.put(product, existing + times);
         } else {
             contents.put(product, times);

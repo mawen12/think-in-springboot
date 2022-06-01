@@ -1,8 +1,8 @@
 package com.mawen.demo;
 
-import com.mawen.demo.bean.BlogProperties;
 import com.mawen.demo.bean.ConfigBean;
 import com.mawen.demo.bean.TestConfigBean;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

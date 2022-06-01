@@ -1,18 +1,18 @@
 package com.mawen.demo.dao.impl;
 
+import java.sql.Types;
+import java.util.List;
+import java.util.Map;
+
 import com.mawen.demo.bean.Student;
 import com.mawen.demo.dao.StudentDao;
 import com.mawen.demo.mapper.StudentMapper;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Repository;
-
-import java.lang.reflect.Type;
-import java.sql.Types;
-import java.util.List;
-import java.util.Map;
 
 @Repository("studentDao")
 public class StudentDaoImpl implements StudentDao {

@@ -1,13 +1,12 @@
 package com.mawen.thinkin.springboot.eventdriven.config;
 
+import java.util.function.Predicate;
+
 import org.springframework.context.ApplicationEvent;
 import org.springframework.context.ApplicationListener;
 import org.springframework.context.event.SimpleApplicationEventMulticaster;
 import org.springframework.core.ResolvableType;
-import org.springframework.core.annotation.AnnotationUtils;
 import org.springframework.util.ReflectionUtils;
-
-import java.util.function.Predicate;
 
 /**
  * Custom ApplicationEventMulticaster to support

@@ -1,10 +1,10 @@
 package com.mawen.demo.dao;
 
-import com.mawen.demo.pojo.Permission;
-import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Select;
-
 import java.util.List;
+
+import com.mawen.demo.pojo.Permission;
+
+import org.apache.ibatis.annotations.Mapper;
 
 @Mapper
 public interface UserPermissionMapper {

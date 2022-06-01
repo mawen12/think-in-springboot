@@ -1,6 +1,5 @@
 package com.mawen.think.in.controller;
 
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
 @Service
